@@ -1,0 +1,1 @@
+Place backhoe.jpg and trucks.jpg in this folder (see README.md).
